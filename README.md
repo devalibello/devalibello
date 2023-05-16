@@ -1,6 +1,7 @@
-[![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)](https://rishavchanda.io)
+![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 <h1 align="center">Hello 👋, I'm Ali Bello Imoukhuede 😎</h1>
 <h3 align="center">A Full-Stack Developer proficient in JavaScript, Ruby, Rails, Redux, and React. Looking for my next job!</h3>
+
 <br><br><br><br><br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdmZTUwNThlMmU1ZWYzY2JjYmQ1M2EzMDM0YjFmYTljMDdmMmViMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif">
 
@@ -9,6 +10,8 @@
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **code refactoring**
+
+- 👨‍💻 My portfolio is available at [https://devalibello.github.io/portfolio/](https://devalibello.github.io/portfolio/)
 
 - 📫 How to reach me **alibelloimoukhuede@gmail.com**
 
